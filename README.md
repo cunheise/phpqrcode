@@ -12,3 +12,8 @@ Install
 Sample
 ------
     php sample.php
+
+Code
+----
+    require __DIR__ . '/vendor/autoload.php';
+    QRcode::png('http://www.google.com', 'sample.png');
