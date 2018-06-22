@@ -1,5 +1,5 @@
 {
-    "name": "nathan/phpqrcode",
+    "name": "cunheise/phpqrcode",
     "description": "phpqrcode 1.1.4 version for composer, from http://phpqrcode.sourceforge.net/",
     "type": "library",
     "homepage": "https://github.com/cunheise/phpqrcode.git",

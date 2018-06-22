@@ -7,7 +7,7 @@ phpqrcode 1.1.4 version for composer, from http://phpqrcode.sourceforge.net/
 
 Install
 -------
-    composer require nathan/phpqrcode
+    composer require cunheise/phpqrcode
     
 Sample
 ------
