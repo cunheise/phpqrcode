@@ -6,4 +6,4 @@
  * Time: 10:15
  */
 require __DIR__ . '/vendor/autoload.php';
-QRcode::png('http://www.google.com', 'sample.png');
+PHPQRcode\QRcode::png('http://www.google.com', 'sample.png');
