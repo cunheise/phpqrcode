@@ -1,0 +1,24 @@
+{
+    "name": "nathan/phpqrcode",
+    "description": "phpqrcode 1.1.4 version for composer, from http://phpqrcode.sourceforge.net/",
+    "type": "library",
+    "homepage": "https://github.com/cunheise/phpqrcode.git",
+    "license": "MIT",
+    "keywords": ["php", "qrcode"],
+    "authors": [
+        {
+            "name": "Nathan Wu",
+            "email": "nathan@joomlacreator.com",
+            "homepage": "http://www.joomlacreator.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["phpqrcode/phpqrcode.php"]
+    }
+}
